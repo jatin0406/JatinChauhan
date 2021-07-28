@@ -2,4 +2,4 @@
 <h2 align="center">Portfolio</h2>
 
 Personal portfolio with awesome design.
-Made by Jatin Singh Chauhan
+<p align="center"> Made with ❤️ by Jatin Singh Chauhan</p>
